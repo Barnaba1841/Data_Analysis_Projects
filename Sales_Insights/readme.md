@@ -5,7 +5,7 @@ Solution : The data Consists of different tables
 <img src="Assetss/Screenshot_Tables.png" alt="Tables" title="Tables">
 
 All this data is stored in Sql Servers.We need to load that data into Power BI<br>
-consists the data in db_dump.sql file
+[consists the data](db_dump.sql)
 
 <img src="Assetss/Screenshot_SQLTABLES.png" alt="Tables" title="Tables">
 
