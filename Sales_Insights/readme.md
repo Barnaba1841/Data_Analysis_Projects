@@ -2,7 +2,7 @@ Problem Statement : Atliq Hardware is the Company which supplies Computer Hardwa
 
 Solution : The data Consists of different tables
 
-<img src="Sales_Insights/Assetss/Screenshot_Tables.png" alt="Tables" title="Tables">
+<img src="Assetss/Screenshot_Tables.png" alt="Tables" title="Tables">
 
 All this data is stored in Sql Servers.We need to load that data into Power BI
 After that 
