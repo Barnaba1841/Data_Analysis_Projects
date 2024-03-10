@@ -5,9 +5,15 @@ Solution : The data Consists of different tables
 <img src="Assetss/Screenshot_Tables.png" alt="Tables" title="Tables">
 
 All this data is stored in Sql Servers.We need to load that data into Power BI
+
+<img src="Assetss/Screenshot_SQLTABLES.png" alt="Tables" title="Tables">
+
+
 After that 
 •	Clean the Data
 •	Arrange the Data
 •	Create relationship between all the tables
 •	Create charts for insights using Power BI Dashboard features.
+
+<img src="Assetss/Screenshot_Dashboard.png" alt="Tables" title="Tables">
 
