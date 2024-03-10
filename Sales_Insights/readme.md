@@ -2,6 +2,9 @@ Problem Statement : Atliq Hardware is the Company which supplies Computer Hardwa
 
 Solution : The data Consists of different tables
 
+![Alt text](URL "Tables")
+![Tables](/repository/Data_Analysis_Projects/Sales_Insights/Assetss/Screenshot Tables.png?raw=true "Tables")
+<img src="/repository/Data_Analysis_Projects/Sales_Insights/Assetss/Screenshot Tables.png" alt="Employee data" title="Employee Data title">
 
 All this data is stored in Sql Servers.We need to load that data into Power BI
 After that 
