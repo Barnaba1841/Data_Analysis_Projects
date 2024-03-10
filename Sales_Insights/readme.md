@@ -4,7 +4,8 @@ Solution : The data Consists of different tables
 
 <img src="Assetss/Screenshot_Tables.png" alt="Tables" title="Tables">
 
-All this data is stored in Sql Servers.We need to load that data into Power BI
+All this data is stored in Sql Servers.We need to load that data into Power BI<br>
+consists the data in db_dump.sql file
 
 <img src="Assetss/Screenshot_SQLTABLES.png" alt="Tables" title="Tables">
 
@@ -14,6 +15,8 @@ After that
 •	Arrange the Data<br>
 •	Create relationship between all the tables<br>
 •	Create charts for insights using Power BI Dashboard features.<br>
+
+Consists the data in SalesanalyticsPBI.pbix file
 
 <img src="Assetss/Screenshot_Dashboard.png" alt="Tables" title="Tables">
 
