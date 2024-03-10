@@ -10,10 +10,10 @@ All this data is stored in Sql Servers.We need to load that data into Power BI
 
 
 After that 
-•	Clean the Data
-•	Arrange the Data
-•	Create relationship between all the tables
-•	Create charts for insights using Power BI Dashboard features.
+•	Clean the Data<br>
+•	Arrange the Data<br>
+•	Create relationship between all the tables<br>
+•	Create charts for insights using Power BI Dashboard features.<br>
 
 <img src="Assetss/Screenshot_Dashboard.png" alt="Tables" title="Tables">
 
