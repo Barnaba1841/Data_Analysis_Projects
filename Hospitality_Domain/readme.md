@@ -9,3 +9,5 @@ Collect data from Clients in various sources and in different file formats(sql,E
 The data consists of different tables
 <img src="Assets/Screenshot_Tables.png" alt="Tables" title="Tables">
 
+
+
