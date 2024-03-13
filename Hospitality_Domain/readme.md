@@ -7,5 +7,5 @@ Solution :
 --> Required understanding of problem statement and understand required key metrics
 Collect data from Clients in various sources and in different file formats(sql,Excel,CSV)
 The data consists of different tables
-<img src="Assetss/Screenshot_Tables.png" alt="Tables" title="Tables">
+<img src="Assets/Screenshot_Tables.png" alt="Tables" title="Tables">
 
