@@ -6,7 +6,7 @@ As a strategic move, the managing director of AtliQ Grands wanted to incorporate
 Solution :
 --> Required understanding of problem statement and understand required key metrics<br>
 Collect data from Clients in various sources and in different file formats(sql,Excel,CSV)<br>
-The data consists of different tables<br
+The data consists of different tables<br>
 
 <img src="Assets/Screenshot_Tables.png" alt="Tables" title="Tables">
 
