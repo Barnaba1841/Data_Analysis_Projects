@@ -4,8 +4,8 @@ Due to strategic moves from other competitors and ineffective decision-making in
 As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.However, they do not have an in-house data analytics team to provide them with these insights.
 
 Solution :
---> Required understanding of problem statement and understand required key metrics
-Collect data from Clients in various sources and in different file formats(sql,Excel,CSV)
+--> Required understanding of problem statement and understand required key metrics<br>
+Collect data from Clients in various sources and in different file formats(sql,Excel,CSV)<br>
 The data consists of different tables
 <img src="Assets/Screenshot_Tables.png" alt="Tables" title="Tables">
 
