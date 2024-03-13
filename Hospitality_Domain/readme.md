@@ -21,7 +21,7 @@ Using DAX Formulas we create measures for our requirements<br>
 <br>
 -->Create charts for insights using Power BI Dashboard features.<br>
 
-[Data Files](hotelsPBI.pbix)
+[DashBoard Insights](hotelsPBI.pbix)
 
 <br>
 
