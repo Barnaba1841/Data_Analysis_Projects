@@ -7,5 +7,5 @@ Solution :
 --> Required understanding of problem statement and understand required key metrics
 Collect data from Clients in various sources and in different file formats(sql,Excel,CSV)
 The data consists of different tables
-![image](https://github.com/Barnaba1841/Data_Analysis_Projects/assets/117457441/ff2d6260-41aa-45e6-a362-9da4d78c725f)
+
 
