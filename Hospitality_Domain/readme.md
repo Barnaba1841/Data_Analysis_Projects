@@ -11,7 +11,6 @@ The data consists of different tables<br>
 <img src="Assets/Screenshot_Tables.png" alt="Tables" title="Tables">
 
 <br> We need to load that data into Power BI<br>
-[Data Files](Data)
 <br>
 -->Next process is Data Cleaning and Data Modelling Using Dax<br>
 we need to establish relationship with different tables using Star Schema.<br>
