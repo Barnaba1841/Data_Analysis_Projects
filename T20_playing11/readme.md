@@ -3,9 +3,11 @@ Create Best Playing 11 to Defeat the Team of Planet Sparta
 
 Requirements for team of Playing 11 :
 
-1)The team should be able to score at least 180 runs on an average
-2)They should be able to defend 150 runs on an average
+1)The team should be able to score at least 180 runs on an average<br>
+2)They should be able to defend 150 runs on an average<br>
 and also selectors has given some criteria for differnt roles of Playing XI
+
+<br>
 
 
 Solution :
