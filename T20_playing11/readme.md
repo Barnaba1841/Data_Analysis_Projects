@@ -8,7 +8,11 @@ Requirements for team of Playing 11 :
 and also selectors has given some criteria for differnt roles of Playing XI
 
 <br>
-
+<img src="Assetss/Screenshot_openers.png" alt="Tables" title="Tables">
+<img src="Assetss/Screenshot_middle_order.png" alt="Tables" title="Tables">
+<img src="Assetss/Screenshot_finishers.png" alt="Tables" title="Tables">
+<img src="Assetss/Screenshot_all_rounders.png" alt="Tables" title="Tables">
+<img src="Assetss/Screenshot_fast_bowlers.png" alt="Tables" title="Tables">
 
 Solution :
 Collection of Data from Espn website in Json file format
