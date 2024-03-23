@@ -29,9 +29,17 @@ we need to establish relationship with different tables using Star Schema.<br>
 Using DAX Formulas we create measures for our requirements<br>
 <img src="Assetss/Screenshot_key_measures.png" alt="Tables" title="Tables">
 
-
 -->Dashboarding and insights generation<br>
-Build dashboard for select best playing 11
+Build dashboard for select best playing 11<br>
+<br>
+<img src="Assetss/Screenshot_Openers.png" alt="Tables" title="Tables">
+<img src="Assetss/Screenshot_Middle_order.png" alt="Tables" title="Tables">
+<img src="Assetss/Screenshot_Finishers.png" alt="Tables" title="Tables">
+<img src="Assetss/Screenshot_All_rounders.png" alt="Tables" title="Tables">
+<img src="Assetss/Screenshot_Fast_bowlers.png" alt="Tables" title="Tables">
+<img src="Assetss/Screenshot_Final_11.png" alt="Tables" title="Tables">
 
+The final Dashboard created in Power BI<br>
+[DashBoard](t20_team_PBI.pbix)
 
 
