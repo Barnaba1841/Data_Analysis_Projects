@@ -21,20 +21,17 @@ Data cleaning with python using pandas library
 
 (sometimes taken the help from chat GPT to write syntax for some operations )
 
-And after cleaning the json files export them into csv files
-
-
-The data Contains various tables <br>
+And after cleaning the json files export them into csv files which contains different tables in excel format<br>
 Transform that data according to your requirements using Power Query
 
--->Next process is Data Cleaning and Data Modelling Using Dax<br>
+-->The process includes Data Cleaning and Data Modelling Using Dax<br>
 we need to establish relationship with different tables using Star Schema.<br>
 Using DAX Formulas we create measures for our requirements<br>
+<img src="Assetss/Screenshot_key_measures.png" alt="Tables" title="Tables">
 
 
-3)dashboarding and insights generation
-Create new measures for key metrics
-Build dashboard and select best playing 11
+-->Dashboarding and insights generation<br>
+Build dashboard for select best playing 11
 
 
 
