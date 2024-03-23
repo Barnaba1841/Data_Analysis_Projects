@@ -24,13 +24,13 @@ Data cleaning with python using pandas library
 And after cleaning the json files export them into csv files
 
 
-
-The data Contains various tables in excel Format
+The data Contains various tables <br>
 Transform that data according to your requirements using Power Query
-Cleaning the data
 
-1)Data modelling using DAX Formulas
-Establish relationship between data using star schema
+-->Next process is Data Cleaning and Data Modelling Using Dax<br>
+we need to establish relationship with different tables using Star Schema.<br>
+Using DAX Formulas we create measures for our requirements<br>
+
 
 3)dashboarding and insights generation
 Create new measures for key metrics
