@@ -15,9 +15,12 @@ and also selectors has given some criteria for differnt roles of Playing XI
 <img src="Assetss/Screenshot_fast_bowlers.png" alt="Tables" title="Tables">
 
 Solution :
-Collection of Data from Espn website in Json file format
+Collection of Data from Espn website in Json file format using web scraping
+
 Data cleaning with python using pandas library
-(sometimes chat GPT will help to write syntax for some operations )
+
+(sometimes taken the help from chat GPT to write syntax for some operations )
+
 And after cleaning the json files export them into csv files
 
 
