@@ -48,9 +48,9 @@ Using DAX Formulas i created key measures for our requirements
 
 
 The Presentation on Project<br>
-[Presentation](t20_team_PBI.pbix)
+[Presentation](PPT_Ipl_Project.pptx)
 
 The final Dashboard created in Power BI<br>
-[DashBoard](t20_team_PBI.pbix)
+[DashBoard](ipl_project_PBI.pbix)
 
 
