@@ -63,7 +63,7 @@ The methodology for this project was systematic and data-driven, involving sever
 ## Demo Magazine
 As part of this project, I created a 6-page demo magazine for a sports magazine, showcasing the insights and predictions made through the analysis.
 
-[You can find the First Draft of Sports Magazine here :](SPORTS BASICS Magazine - First Draft (1).pdf)
+[You can find the First Draft of Sports Magazine here :](Sports_Basics_Magazine.pdf)
 
 ## Conclusion
 This project not only provides valuable insights into past IPL seasons but also employs predictive analytics to forecast the 2024 season, serving as a valuable resource for cricket enthusiasts and analysts alike.
