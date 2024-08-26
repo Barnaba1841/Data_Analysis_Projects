@@ -19,8 +19,10 @@ OBS Studio: Video presentation preparation
 
 ## Links
 [PPT]()
-[Video Presentation:] (https://drive.google.com/drive/folders/1uPo1iSqpyXySaePBEXWOKboEqz5i1KuQ?usp=drive_link)
-[Live Dashboard:]()
+**[Video Presentation:](https://drive.google.com/drive/folders/1uPo1iSqpyXySaePBEXWOKboEqz5i1KuQ?usp=drive_link)**
+
+**[Live Dashboard:](https://app.powerbi.com/view?r=eyJrIjoiYWQ3N2E1MmItNjMwNC00OThkLWE5OTMtODhiOGVhYTJkZGUzIiwidCI6ImY4ZWI4OWIzLTM2MGUtNDA3OS1iYWY0LTAwYzllOTE2ZDM5ZiJ9&pageName=89dcf353efcb9c74f567)**
+
 [Linkedin Post]()
 
 ## Insights Overview
